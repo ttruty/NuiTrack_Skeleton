@@ -15,4 +15,4 @@ Where I hope to take this project:
 * Gesture control
 * Voice recognition with MS Voice SDK integration
 
-![NuiTrack]()
+![NuiTrack](https://github.com/ttruty/NuiTrack_Skeleton/tree/master/images/NuiTrack.PNG)
